@@ -1,0 +1,7 @@
+resolver: lts-9.0
+packages:
+- .
+- location:
+    git: git@github.com:colah/ImplicitCAD
+    commit: bce54086c17f1cac880266ee70abe7b4af40b5d9
+  extra-dep: true
