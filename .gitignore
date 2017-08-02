@@ -1,6 +1,9 @@
 dist
 dist-*
 cabal-dev
+*.stl
+*.png
+*.svg
 *.o
 *.hi
 *.chi
